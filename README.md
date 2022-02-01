@@ -4,3 +4,6 @@
 4. git add --all
 5. git commit -m"first commit !"
 4. git push -u origin main
+5. git add README.md
+6. git commit -m"add readme file"
+7. git push
